@@ -1,2 +1,2 @@
 # easy-kit
-程序员工具箱
+A toolkit for developers.
